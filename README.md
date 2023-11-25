@@ -12,4 +12,8 @@
 
 ## GitHub リポジトリ
 
+<https://github.com/hotarupoyo/pokemon-1-45-height-weight>
+
 ## GreasyFork からインストール
+
+<https://greasyfork.org/ja/scripts/480725-pokemon-1-45-height-weight>
