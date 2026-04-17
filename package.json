@@ -1,7 +1,7 @@
 {
   "name": "pokemon-1-45-height-weight",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ポケモンの標準の1.45倍のたかさ・おもさを表示する。",
   "type": "module",
   "license": "MIT",
@@ -13,5 +13,12 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.2.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.5.0",
+    "prettier": "3.8.3",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.58.2",
+    "vite": "^7.3.2",
+    "vite-plugin-monkey": "^7.1.9"
   }
 }
